@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SPS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:orange_dye"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "P": {
+            "item": "minecraft:potion"
+        }
+    },
+    "result": {
+        "item": "minecraft:honey_bottle",
+        "count": 1
+    }
+}
