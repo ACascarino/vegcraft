@@ -8,10 +8,13 @@
             "item": "minecraft:wheat"
         },
         {
-            "item": "minecraft:water_bucket"
+            "item": "minecraft:wheat"
         },
         {
-            "item": "minecraft:wheat"
+            "item": "minecraft:bucket"
+        },
+        {
+            "item": "minecraft:water_bucket"
         }
     ],
     "result": {
