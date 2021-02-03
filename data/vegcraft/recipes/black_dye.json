@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:charcoal"
+    },
+    "result": "minecraft:black_dye",
+    "count": 2
+}
