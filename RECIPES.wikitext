@@ -1,0 +1,115 @@
+{{Smelting
+    |head = 1
+    |Grass
+    |String
+    |0.1
+}}
+{{Smelting
+    |Seagrass
+    |String
+    |0.1
+}}
+{{Smelting
+    |Tall Grass
+    |String
+    |0.1
+    |foot = 1
+}}
+
+{{Stonecutting
+    |showname = 1
+    |Charcoal
+    |Black Dye,2
+}}
+
+{{Crafting
+    |head = 1
+    |showname = 1
+    |A1 = Flint
+    |A2 = Stick
+    |A3 = Paper
+    |Output = Arrow,4
+}}
+
+{{Crafting
+    |showname = 1
+    |Book
+    |Stick
+    |Black Dye
+    |Output = Book and Quill
+}}
+
+{{Crafting
+    |showname = 1
+    |A1 = Milk Bucket
+    |B1 = Milk Bucket
+    |C1 = Milk Bucket
+    |A2 = Sugar
+    |B2 = Honey Bottle
+    |C2 = Sugar
+    |A3 = Wheat
+    |B3 = Wheat
+    |C3 = Wheat
+    |Output = Cake
+}}
+
+{{Crafting
+    |showname = 1
+    |Paper
+    |Stick
+    |String
+    |Output = Feather,4
+}}
+
+{{Crafting
+    |showname = 1
+    |A1 = Sugar; Orange Dye
+    |B1 = Orange Dye; Sugar
+    |C1 = Sugar; Orange Dye
+    |A2 = Orange Dye; Sugar
+    |B2 = Water Bottle
+    |C2 = Orange Dye; Sugar
+    |A3 = Sugar; Orange Dye
+    |B3 = Orange Dye; Sugar
+    |C3 = Sugar; Orange Dye
+    |Output = Honey Bottle
+}}
+
+{{Crafting
+    |showname = 1
+    |Rotten Flesh
+    |Rotten Flesh
+    |Rotten Flesh
+    |String
+    |Output = Leather
+}}
+
+{{Crafting
+    |showname = 1
+    |Wheat
+    |Wheat
+    |Wheat
+    |Bucket
+    |Water Bucket
+    |Output = Milk Bucket
+}}
+
+{{Crafting
+    |showname = 1
+    |Pumpkin
+    |Sugar
+    |Honey Bottle
+    |Output = Pumpkin Pie
+}}
+
+{{Crafting
+    |showname = 1
+    |Apple;Poisonous Potato
+    |Red Dye
+    |Green Dye
+    |Black Dye
+    |Output = Rotten Flesh,2
+    |foot = 1
+}}
+
+
