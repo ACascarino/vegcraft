@@ -2,7 +2,7 @@
 
 A Minecraft datapack for the creation of purely vegan recipes!
 All original recipes remain in the game - these are simply in addition.
-Here's the complete set of recipes, as of v0.2pre:
+Here's the complete set of recipes, as of v0.2-pre:
 
 Item | Recipe | Description
 ---- | ------ | -----------
