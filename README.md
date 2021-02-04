@@ -1,3 +1,19 @@
 # VegCraft
 
-A Minecraft mod for the creation of purely/mostly vegan recipes!
+A Minecraft datapack for the creation of purely vegan recipes!
+All original recipes remain in the game - these are simply in addition.
+Here's the complete set of recipes, as of v0.2pre:
+
+Item | Recipe | Description
+---- | ------ | -----------
+Arrow | ![Crafting table: vertical: flint, stick, paper -> 4 arrows](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/arrow.png) | Original arrow recipe used feathers, have substituted them for paper as the arrow flights
+Black Dye | ![Stonecutter: Charcoal -> 2 black dye](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/black_dye.png) | Original black dye recipe used ink sacs - in making them redundant have specified that stonecutting charcoal into powder makes black dye
+Book and Quill | ![Crafting table: shapeless: book, stick, black dye -> book and quill](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/book_and_quill.png) | Original book and quill recipe used feathers and ink sac; substituted a stick and black dye for a "pen" theme
+Cake | ![Crafting table: top row: 3 milk bucket; middle row: sugar, honey bottle, sugar; bottom row: 3 wheat -> cake](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/cake.png) | Original cake recipe uses eggs; have substituted eggs for honey globally
+Feather | ![Crafting table: shapeless: paper, stick, string -> 4 feathers](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/feather.png) | Firework star "burst" recipe hardcoded to use feathers, so needed an alternate feather recipe - getting the sense of tying paper to a stick as a "paper feather"
+Honey Bottle | ![Crafting table: top row: sugar, orange dye, sugar; middle row: orange dye, water bottle, orange dye; bottom row: sugar, orange dye, sugar -> honey bottle](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/honey_bottle_1.png) ![Crafting table: top row: orange dye, sugar, orange dye; middle row: sugar, water bottle, sugar; bottom row: orange dye, sugar, orange dye -> honey bottle](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/honey_bottle_2.png) | Original method of honey production uses bees; new method dyes sugary water.
+Leather | ![Crafting table: shapeless: 3 rotten flesh, string -> leather](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/leather.png) | Original method of leather production kills cows; new method sews together rotten flesh to make a leather
+Milk Bucket | ![Crafting table: shapeless: 3 wheat, bucket, water bucket -> milk bucket](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/milk_bucket.png) | Original method of milk production uses cows; new method creates "oat milk". Two buckets needed due to bucket duplication glitch.
+Pumpkin Pie | ![Crafting table: shapeless: pumpkin, sugar, honey bottle -> pumpkin pie](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/pumpkin_pie.png) | Original pumpkin pie recipe uses eggs; have substituted eggs for honey globally
+Rotten Flesh | ![Crafting table: shapeless: apple, red dye, green dye, black dye -> 2 rotten flesh](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/rotten_flesh_apple.png) ![Crafting table: shapeless: poisonous potato, red dye, green dye, black dye -> 2 rotten flesh](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/rotten_flesh_potato.png)| Original rotten flesh production kills zombies; have created an "apple leather" vibe with dye and crushed charcoal (black dye). Have also given use to poisonous potatos as a sort of "rotten potato leather".
+String | ![Smelting: grass -> string](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/string_grass.png) ![Smelting: seagrass -> string](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/string_seagrass.png) ![Smelting: tall grass -> string](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/string_tallgrass.png) | Original string production kills spiders; have gone with smelted grasses as string.
