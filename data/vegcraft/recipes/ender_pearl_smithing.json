@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:end_stone"
+    },
+    "result": "minecraft:ender_pearl",
+    "experience": 2,
+    "cookingtime": 300
+}
