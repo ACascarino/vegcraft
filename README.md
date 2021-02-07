@@ -5,8 +5,7 @@ All original recipes remain in the game - these are simply in addition.
 Here's the complete set of recipes, as of v0.2-pre:
 
 Item | Recipe | Description
----- | ------ | -----------
-Arrow | ![Crafting table: vertical: flint, stick, paper -> 4 arrows](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/arrow.png) | Original arrow recipe used feathers, have substituted them for paper as the arrow flights
+---- | ------ | ----------
 Black Dye | ![Stonecutter: Charcoal -> 2 black dye](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/black_dye.png) | Original black dye recipe used ink sacs - in making them redundant have specified that stonecutting charcoal into powder makes black dye
 Book and Quill | ![Crafting table: shapeless: book, stick, black dye -> book and quill](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/book_and_quill.png) | Original book and quill recipe used feathers and ink sac; substituted a stick and black dye for a "pen" theme
 Blaze Powder | ![Crafting table: top row: glowstone dust, gold nugget, glowstone dust; middle row: nether wart, gunpowder, nether wart; bottom row: glowstone dust, gold nugget, glowstone dust -> blaze powder](https://raw.githubusercontent.com/ACascarino/vegcraft/master/img/blaze_powder.png) | Original blaze powder is produced from blaze rods, a drop from Blazes - went with a "firey gold powder" theme
