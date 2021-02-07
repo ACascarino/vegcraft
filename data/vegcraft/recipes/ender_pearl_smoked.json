@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "minecraft:chorus_fruit"
+    },
+    "result": "minecraft:ender_pearl",
+    "experience": 2,
+    "cookingtime": 600
+}
