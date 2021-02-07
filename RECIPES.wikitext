@@ -112,4 +112,68 @@
     |foot = 1
 }}
 
+{{Crafting
+    |showname = 1
+    |Redstone Dust
+    |Sugar
+    |Coal
+    |Bone Meal
+    |Output = Gunpowder}}
 
+{{Crafting
+    |showname = 1
+    |B1 = Gold Nugget
+    |A2 = Blaze Powder
+    |B2 = Nether Quartz
+    |C2 = Blaze Powder
+    |B3 = Gold Nugget
+    |Output = Blaze Rod
+}}
+
+{{Crafting
+    |showname = 1
+    |A1 = Nether Quartz
+    |B1 = Cyan Dye
+    |C1 = Nether Quartz
+    |A2 = Nether Quartz
+    |B2 = Bottle o' Enchanting
+    |C2 = Nether Quartz
+    |A3 = Nether Quartz
+    |B3 = Nether Quartz
+    |C3 = Nether Quartz
+    |Output = Ender Pearl
+}}
+
+{{Smelting
+    |showname = 1
+    |End Stone
+    |Ender Pearl
+    |2}}
+
+{{Crafting
+    |showname = 1
+    |A1 = Fire Charge
+    |B1 = Gunpowder
+    |C1 = Glass
+    |A2 = Blaze Powder
+    |B2 = Nether Quartz
+    |C2 = Blaze Powder
+    |A3 = Glass
+    |B3 = Gunpowder
+    |C3 = Fire Charge
+    |Output = Ghast Tear
+}}
+
+{{Crafting
+    |showname = 1
+    |A1 = Glowstone Dust
+    |B1 = Gold Nugget
+    |C1 = Glowstone Dust
+    |A2 = Nether Wart
+    |B2 = Gunpowder
+    |C2 = Nether Wart
+    |A3 = Glowstone Dust
+    |B3 = Gold Nugget
+    |C3 = Glowstone Dust
+    |Output = Blaze Powder
+}}
