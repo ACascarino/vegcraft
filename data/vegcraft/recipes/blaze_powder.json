@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "NEN",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        },
+        "N": {
+            "item": "minecraft:nether_wart"
+        },
+        "E": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "minecraft:blaze_powder",
+        "count": 1
+    }
+}

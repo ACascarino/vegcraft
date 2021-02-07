@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:quartz"
+        },
+        "C": {
+            "item": "minecraft:cyan_dye"
+        },
+        "E": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:ender_pearl",
+        "count": 1
+    }
+}

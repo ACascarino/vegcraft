@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#GX",
+        "BQB",
+        "XG#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:fire_charge"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        },
+        "X": {
+            "item": "minecraft:glass"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "item": "minecraft:ghast_tear",
+        "count": 1
+    }
+}
